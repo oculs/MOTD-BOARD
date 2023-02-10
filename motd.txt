@@ -1,6 +1,6 @@
                  MESSAGE OF THE UPDATE                     
-                   NO MORE SNOW!
-                   Also leaves!
+                  I fixed lag and vents, also hitsounds!
+                
                   
                      
                      
