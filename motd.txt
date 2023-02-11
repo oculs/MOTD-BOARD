@@ -1,8 +1,8 @@
-                 MESSAGE OF THE UPDATE                     
+                | MESSAGE OF THE UPDATE |                     
                   Fixed clouds map and added new particle system
                   using unity's particle system!
                 
                   
                      
                      
-                     -VCX Live 1.01
+                     -VCX and NIELLYT | Live 1.01
