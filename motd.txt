@@ -1,5 +1,6 @@
                 | MESSAGE OF THE UPDATE |                     
-                  Added third person and some bug fixes
+                  Made it so you can type with your fingers
+                  and fixed the infinite loading glitch.
                   https://discord.gg/7BxFsQEt7s
                 
                   
