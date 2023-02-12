@@ -1,8 +1,6 @@
                 | MESSAGE OF THE UPDATE |                     
-                  Fixed clouds map and added new particle system
-                  using unity's particle system!
+                  Added new art room and a new map!
                 
                   
-                     
                      
                      -VCX and NIELLYT | Live 1.01
