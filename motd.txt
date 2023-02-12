@@ -1,6 +1,7 @@
                 | MESSAGE OF THE UPDATE |                     
-                  Added new art room and a new map!
+                  I fixed the glitch in ice map also no lag in shop
+                  
                 
                   
                      
-                     -VCX and NIELLYT | Live 1.01
+                     -VCX and NIELLYT | Live 1.04
